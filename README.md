@@ -24,11 +24,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Je opdracht:** link naar de website die je gaat namaken óf de naam van je eigen ontwerp
 
 **Screenshot(s) van de eerste pagina (small screen):**  
-hier de naam van de pagina
+hier de naam van de pagina  
 <img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**  
-hier de naam van de pagina
+hier de naam van de pagina  
 <img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>

@@ -5,9 +5,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 <details open>
- <summary>
-
-    <h2>Jij<h2>
+ <summary>Jij
     uitwerken voor de kick-off werkgroep - begin van de eerste week
 
     **Auteur:** -jouw naam-

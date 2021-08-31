@@ -6,8 +6,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Jij
 <details open>
 <summary>uitwerken voor kick-off werkgroep</summary>
-  
-**Auteur:** Sanne 't Hooft (vervangen door jouw naam)
+
+### Auteur:
+Sanne 't Hooft (vervangen door jouw naam)
  
 </details>
 

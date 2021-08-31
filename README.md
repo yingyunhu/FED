@@ -10,7 +10,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-## Jij
+<h2>Jij<h2>
 
 <details open>
 <summary>uitwerken voor kick-off werkgroep</summary>

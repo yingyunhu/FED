@@ -17,6 +17,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ### Auteur:
 Sanne 't Hooft (vervangen door jouw naam)
+
+### Je startniveau:
+hier je startniveau (kies uit zwart, rood óf blauw)
+
+### Je focus:
+hier je focus (kies uit responsive óf surface plane)
  
 </details>
 
@@ -24,16 +30,10 @@ Sanne 't Hooft (vervangen door jouw naam)
 
 
 
-## Intake
+## Je website
 
 <details open>
 <summary>uitwerken voor kick-off werkgroep</summary>
-  
-### Je startniveau:
-hier je startniveau (kies uit zwart, rood óf blauw)
-
-### Je focus:
-hier je focus (kies uit responsive óf surface plane)
 
 ### Je opdracht:
 link naar de website die je gaat namaken óf de naam van je eigen ontwerp
@@ -220,6 +220,6 @@ Nb. Wees specifiek ('css-tricks' als bron is niet specifiek genoeg).
 
 1. bron 1
 2. bron 2
-3. ...-
+3. ...
 
 </details>

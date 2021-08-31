@@ -10,18 +10,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-<h2 style="color:red;">Jij</h2>
+## Jij
 
 <details open>
 <summary>uitwerken voor kick-off werkgroep</summary>
 
-### Auteur:
+#### Auteur:
 Sanne 't Hooft (vervangen door jouw naam)
 
-### Je startniveau:
+#### Je startniveau:
 hier je startniveau (kies uit zwart, rood óf blauw)
 
-### Je focus:
+#### Je focus:
 hier je focus (kies uit responsive óf surface plane)
  
 </details>

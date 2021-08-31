@@ -5,18 +5,16 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Jij
 <details open>
-<summary>uitwerken voor kick-off werkgroep
-</summary>
-
+<summary>uitwerken voor kick-off werkgroep</summary>
+  
 **Auteur:** Sanne 't Hooft (vervangen door jouw naam)
  
 </details>
 
 ## Intake
 <details open>
-<summary>uitwerken voor kick-off werkgroep
-</summary>
-
+<summary>uitwerken voor kick-off werkgroep</summary>
+  
 **Je startniveau:** kies uit zwart, rood óf blauw
 
 **Je focus:** kies uit responsive óf surface plane

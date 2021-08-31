@@ -3,6 +3,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 
+
 ## Jij
 <details open>
 <summary>uitwerken voor kick-off werkgroep</summary>
@@ -12,15 +13,18 @@ Sanne 't Hooft (vervangen door jouw naam)
  
 </details>
 
+
+
+
 ## Intake
 <details open>
 <summary>uitwerken voor kick-off werkgroep</summary>
   
 ### Je startniveau:
-kies uit zwart, rood óf blauw
+hier je startniveau (kies uit zwart, rood óf blauw)
 
 ### Je focus:
-kies uit responsive óf surface plane
+hier je focus (kies uit responsive óf surface plane)
 
 ### Je opdracht:
 link naar de website die je gaat namaken óf de naam van je eigen ontwerp
@@ -38,20 +42,18 @@ hier de naam van de pagina
 
 
 
-
-
-
-
-
-
-
-
-
 ## Breakdownschets (week 1)
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
+<details>
+<summary>uitwerken na afloop van 2e werkgroep</summary>
 
+### de hele pagina: 
+<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
 
+### dynamisch deel (bijv menu): 
+<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+
+</details>
 
 
 ## Voortgang 1 (week 2)

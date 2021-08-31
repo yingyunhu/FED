@@ -2,13 +2,15 @@
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
 ## Jij
-**Auteur:** -jouw naam-
 
 
+<details open>
+ <summary>
+ ## Intake (week 1)
+ **Auteur:** -jouw naam-
+ </summary>
 
-
-## Intake (week 1)
--uitwerken voor de kick-off werkgroep - begin van de eerste week-
+ -uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
 **Je startniveau:** -kies uit zwart, rood óf blauw-
 
@@ -22,7 +24,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">..this is hidden, collapsable content...
+
+</details>
+
+
+
+
+
 
 
 

@@ -3,18 +3,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 
-
+## Jij
 <details open>
- <summary>
+<summary>uitwerken voor de kick-off werkgroep - begin van de 1e week
+</summary>
+
+**Auteur:** -jouw naam-
  
- ## Jij
-    uitwerken voor de kick-off werkgroep - begin van de eerste week
-
-    **Auteur:** -jouw naam-
-
- </summary>
-
- 
+</details>
 
 **Je startniveau:** -kies uit zwart, rood óf blauw-
 
@@ -30,7 +26,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">..this is hidden, collapsable content...
 
-</details>
+
 
 
 

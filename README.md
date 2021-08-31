@@ -8,7 +8,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 <summary>uitwerken voor kick-off werkgroep - begin 1e week
 </summary>
 
-**Auteur:** -jouw naam-
+**Auteur:** Sanne 't Hooft (vervangen door jouw naam)
  
 </details>
 

@@ -202,6 +202,8 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 
 hier screenshot(s) van je eindresultaat
 
+</details>
+
 
 
 

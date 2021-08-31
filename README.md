@@ -6,11 +6,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 <details open>
  <summary>
- ## Intake (week 1)
- **Auteur:** -jouw naam-
+
+    ## Intake (week 1)
+    uitwerken voor de kick-off werkgroep - begin van de eerste week
+
+    **Auteur:** -jouw naam-
+    
  </summary>
 
- -uitwerken voor de kick-off werkgroep - begin van de eerste week-
+ 
 
 **Je startniveau:** -kies uit zwart, rood óf blauw-
 

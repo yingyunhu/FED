@@ -36,7 +36,7 @@ hier je focus (kies uit responsive óf surface plane)
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam van je eigen ontwerp
+link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
@@ -87,7 +87,7 @@ samen met je groepje opstellen
 | student 1      | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
 | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 
@@ -120,7 +120,7 @@ samen met je groepje opstellen
 | student 1      | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
 | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 
@@ -190,7 +190,7 @@ samen met je groepje opstellen
 | student 1      | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
 | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 
@@ -231,7 +231,7 @@ hier screenshot(s) van je eindresultaat
 <details open>
 <summary>continu bijhouden terwijl je werkt</summary>
 
-Nb. Wees specifiek ('css-tricks' als bron is niet specifiek genoeg).
+Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
 1. bron 1
 2. bron 2

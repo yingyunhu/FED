@@ -50,8 +50,6 @@ hier de naam van de pagina
 
 
 
-
-
 ## Breakdownschets (week 1)
 
 <details>

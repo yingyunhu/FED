@@ -32,7 +32,7 @@ hier je focus (kies uit responsive óf surface plane)
 
 ## Je website
 
-<details open>
+<details>
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
@@ -74,7 +74,7 @@ hier de naam van de pagina
 
 ## Voortgang 1 (week 2)
 
-<details>
+<details open>
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken

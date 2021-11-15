@@ -12,7 +12,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Jij
 
-<details open>
+<details>
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
@@ -72,7 +72,7 @@ hier de naam van de pagina
 
 ## Voortgang 1 (week 2)
 
-<details open>
+<details>
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
@@ -105,7 +105,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ## Voortgang 2 (week 3)
 
-<details>
+<details open>
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken

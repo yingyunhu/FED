@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Ying Yun Hu
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  responsive
  
 </details>
 
@@ -36,8 +36,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
-
+  https://gorillas.io/en 
+  online supermarkt
+  
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
@@ -60,6 +61,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Ik had nog nooit een screenreader gebruikt, dus alles wat nog een beetje uitzoeken hoe het werkte. Hiervoor was gelukkig een handleiding. Het was een beetje spelen met de shortcuts maar op een gegeven moment had ik door hoe het moest. Wel heb ik vaker een soort screenreader gezien op verschillende websites, zoals bij de website gemeente van Rotterdam die we moesten bestuderen voor Vormgeving. 
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 

@@ -40,12 +40,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   online supermarkt
   
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Gorillas - Home
+![homepagina_gorillas_tel](https://user-images.githubusercontent.com/112943865/189537691-776ed745-879a-4a0e-8c83-1e8552fe5bb9.png)
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Gorillas - Carreer
+![career_gorillas_tel](https://user-images.githubusercontent.com/112943865/189537725-26c9009f-7ade-4b58-8803-7aeb8da03d1a.png)
+
  
 </details>
 
@@ -102,9 +103,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  [Untitled-1.ai.zip](https://github.com/yingyunhu/FED/files/9543016/Untitled-1.ai.zip)
 
-  ### dynamisch deel (bijv menu): 
+  ### dynamisch deel - menu: 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 

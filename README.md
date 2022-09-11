@@ -102,14 +102,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
-  ### de hele pagina: 
-  [Untitled-1.ai.zip](https://github.com/yingyunhu/FED/files/9543016/Untitled-1.ai.zip)
-
-  ### dynamisch deel - menu: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  ### de hele pagina + dynamisch deek (menu en filters): 
+  [breakdownschets.ai.zip](https://github.com/yingyunhu/FED/files/9543337/breakdownschets.ai.zip)
 
 </details>
 

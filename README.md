@@ -85,11 +85,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Een button of knop om iets in te spreken, en de website dit uit zal voeren. Eigenlijk een beetje hetzelfde als Siri. 
   
 
-
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Je kreeg hierbij brillen met verschillende soorten glazen die een persoon met een visuele beperking zou zien. Wat voor een soort beperkingen weet ik       niet zo goed meer, maar je had dan bijvoorbeeld een bril met allerlei soorten vlekjes erop of eentje waarvan de zijkanten zijn bedekt met zwart. Dit was   opzicht wel te doen, bij sommige brillen moest ik me iets meer focussen (zoals bij de bril met een zwarte vlek) want hier kon je totaal niet goed   doorheen kijken. De gele bril vond ik wel het makkelijkst omdat ik toevallig een zonnebril heb in die kleur. Alles leek ook nog eens veel                 kleurrijker, dus hiermee had ik geen moeite. 
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Audio is hierbij ook heel belangrijk, of een screenreader voor degenen die een wat zwaardere beperking hebben. Of grote letters!
 
 </details>
 

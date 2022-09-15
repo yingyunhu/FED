@@ -122,20 +122,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Ying      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | Verborgen content| en dit             | en ik dit    | en dan ik dat    |
+  | Hamburger menu| dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+ 
+  - mdn en css almanac zijn betrouwbare bronnen, w3schools niet altijd.
+  - > = directe kindere selecteren
+  - margin-right: auto = neemt alle ruimte in zodat de item aan de rechterkant komt te zitten.
+  - https://alistapart.com/article/now-you-see-me/ // info over het verstoppen van content
+
 
 </details>
 
@@ -225,21 +227,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Ying     | Samantha 2          | Jaiden   | student 4        |
+  | Ying     | Samantha          | Jaiden   | student 4        |
   | ---            | ---                | ---          | ---              |
-  | Verborgen content          | en ik dit    | en dan ik dat    |
-  | Hamburger menu | dit als er tijd is | nog een punt | dit wil ik zeker |
+  |           | en ik dit    | en dan ik dat    |
+  |  | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - mdn en css almanac zijn betrouwbare bronnen, w3schools niet altijd.
-  - > = directe kindere selecteren
-  - margin-right: auto = neemt alle ruimte in zodat de item aan de rechterkant komt te zitten.
-  - https://alistapart.com/article/now-you-see-me/ // info over het verstoppen van content
-
+  - 
+  - 
+  -
 </details>
 
 

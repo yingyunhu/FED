@@ -219,26 +219,26 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik heb deze week een start gemaakt aan mijn website. Ik heb tot nu toe gewerkt aan de header, navigatie
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Ying     | Samantha 2          | Jaiden   | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | Verborgen content          | en ik dit    | en dan ik dat    |
+  | Hamburger menu | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - mdn en css almanac zijn betrouwbare bronnen, w3schools niet altijd.
+  - > = directe kindere selecteren
+  - margin-right: auto = neemt alle ruimte in zodat de item aan de rechterkant komt te zitten.
+  - https://alistapart.com/article/now-you-see-me/ // info over het verstoppen van content
 
 </details>
 

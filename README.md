@@ -157,10 +157,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   samen met je groepje opstellen
 
   | Ying     | student 2          | student 3    | student 4        |
-  | Buttons, moet dat altijd 'a' zijn?            | ---                | ---          | ---              |
+  | ---            | ---                | ---          | ---              |
   | Achtergrond img per section  | en dit             | en ik dit    | en dan ik dat    |
   | Marquee, dit is een heel apart onderdeel in mijn code? Maar hij zit wel gewoon in de section. | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | Grids, tekst goed positioneren         | ...                | ...          | ...              |
+  | Grids: tekst goed positioneren + Buttons: moet dat altijd 'a' zijn?      | ...                | ...          | ...              |
 
 
   ### Verslag van meeting

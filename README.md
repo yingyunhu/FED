@@ -116,7 +116,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Het was nog eventjes puzzelen weer omdat ik veel was vergeten door de vakantie. Maar tot nu toe heb ik de basics voor de html. Ik heb nog geen css. 
 
 
   ### Agenda voor meeting
@@ -150,7 +150,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  Het gaat tot nu toe wel goed met mijn html, maar er zijn nog een aantal dingen die niet zo goed gaan in mijn css zoals het invoegen van images in de sections. Dit moeten achtergrond images zijn maar dit lukt maar niet. De hamburgermenu heb ik soort van kunnen maken, maar dit is nog niet compleet. 
+  Het gaat tot nu toe wel goed met mijn html, maar er zijn nog een aantal dingen die niet zo goed gaan in mijn css zoals het invoegen van images in de sections. Dit moeten achtergrond images zijn maar dit lukt maar niet. De hamburgermenu heb ik soort van kunnen maken, maar dit is nog niet compleet. Marquee blijkt ook niet helemaal te werken zoals ik het wil omdat het niet wordt gelezen als een section, maar een eigen onderdeel. Komt dit omdat het een oude code is? 
+  ![Screenshot 2022-09-21 at 23 03 38](https://user-images.githubusercontent.com/112943865/191609945-183bdeb3-1dbb-4cf4-b630-5f20e8f30c1d.png)
+
+  
+  
 
 
   ### Agenda voor meeting

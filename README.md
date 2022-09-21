@@ -150,17 +150,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Het gaat tot nu toe wel goed met mijn html, maar er zijn nog een aantal dingen die niet zo goed gaan in mijn css zoals het invoegen van images in de sections. Dit moeten achtergrond images zijn maar dit lukt maar niet. De hamburgermenu heb ik soort van kunnen maken, maar dit is nog niet compleet. 
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Ying     | student 2          | student 3    | student 4        |
+  | Buttons, moet dat altijd 'a' zijn?            | ---                | ---          | ---              |
+  | Achtergrond img per section  | en dit             | en ik dit    | en dan ik dat    |
+  | Marquee, dit is een heel apart onderdeel in mijn code? Maar hij zit wel gewoon in de section. | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | Grids, tekst goed positioneren         | ...                | ...          | ...              |
 
 
   ### Verslag van meeting

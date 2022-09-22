@@ -5,12 +5,14 @@
   box-sizing:border-box;  
 }
 
-button, summary {
+button{
 	cursor: pointer;
+  background-color: rgb(255 255 255 / 0.15);
 }
 
-
-
+button a{
+  color: red;
+}
 
 
 /*********************/
@@ -18,12 +20,11 @@ button, summary {
 /*********************/
 :root {
 	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
+	--color-text:#FFF;
+  --color-text2:#000;
+	--color-background:#000;
+  --color-background2:#FFF;
 }
-
-
-
 
 
 /****************/
@@ -35,5 +36,112 @@ button, summary {
 body {
   color:var(--color-text);
   background-color:var(--color-background);
+  font-family: "Object Sans", sans-serif;
+  display: grid;
 }
 
+button{
+  position:relative;
+	z-index:100;
+  display: flex;	
+  background-color: rgb(255 255 255 / 0.15);
+  padding: 0.75em 8em;
+  border-radius: 30px;
+  border:none;
+  justify-content: center;
+}
+
+li{
+  list-style: none;
+}
+
+a{
+  color:var(--color-text);
+  text-decoration: none;
+}
+
+article{
+  display: flex;
+}
+
+article:first-of-type{
+  display: grid;
+  padding: 3em 0 3em 20px;
+}
+
+article h1{
+  font-size: 40px;
+  margin: 0;
+  font-weight: 100;
+}
+
+article p{
+  font-size: 20px;
+  font-weight: 600;
+}
+
+article:nth-of-type(2){
+  display: flex;
+  float: left;
+}
+
+nav:first-of-type{
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  padding: 0.5em;
+  padding-bottom: 4em;
+}
+
+nav:nth-of-type(2){
+  display: flex;
+	position:fixed;
+	inset:0;
+	transform:translateY(-100%);
+	transition:1s;
+  background-color: rgb(255 255 255 / 0.15);
+}
+
+nav:nth-of-type(2).open{
+	transform:translateY(0%);
+}
+
+section:nth-of-type(even) {
+  background-color:var(--color-background2);
+  color:var(--color-text2);
+}
+section:nth-of-type(4) {
+  height: 200px;
+}
+
+section:nth-of-type(6){
+  color:var(--color-text);
+  background-color:var(--color-background);
+}
+
+section:nth-of-type(8){
+  color:var(--color-text);
+  background-color:var(--color-background);
+}
+
+marquee{
+  display: flex;
+  background-color:var(--color-background2);
+  color:var(--color-text2);
+  font-size: 60px;
+  align-items: center;
+  font-weight: 800;
+  padding:1em;
+}
+
+.logo{
+  width: 100px;
+}
+
+.appstore{
+  width: 200px;
+}
+
+.googleplay{
+  width: 200px;
+}

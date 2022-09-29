@@ -41,7 +41,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   #### Screenshot(s) van de eerste pagina (small screen): 
   Gorillas - Home
-![homepagina_gorillas_tel](https://user-images.githubusercontent.com/112943865/191702544-4ef9da11-ced0-4ee2-a1dd-dc046299f0eb.png)
+![homepagina_gorillas_tel](https://user-images.githubusercontent.com/112943865/189537691-776ed745-879a-4a0e-8c83-1e8552fe5bb9.png)
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Gorillas - Carreer

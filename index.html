@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="author" content="Ying Yun Hu">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width">
 
 	<title>Home | GORILLAS</title>
 
@@ -14,15 +14,18 @@
 <body>
 	<header>
 		<nav>
-			<a href="">International</a>
-			<a href="">EN</a>
-			<a href="">Animations</a>
+			<a href="">International</a><img src="images/internationalicon.png">
+			<a href="">EN</a><img src="images/translateicon.png">
+			<a href="">Animations</a><img src="images/checkicon.png">
 		</nav>
 
-		<button>
-			<img src="images/gorillas_logo.png" class="logo" alt="gorillas logo" />
-		</button>
+
+
 		<nav>
+			<button>
+				<img src="images/gorillas_logo.png" alt="gorillas logo">
+			</button>
+
 			<ul>
 				<li><a href="">Home</a></li>
 				<li><a href="">Become a rider</a></li>
@@ -34,42 +37,48 @@
 				<li><a href="">Blog</a></li>
 			</ul>
 		</nav>
+	</header>
 
-		<main>
+	<main>
+		<section>
+			<article>
+				<p>Faster than you</p>
+				<h1>Groceries at your door in minutes</h1>
+			</article>
+
+			<article>
+				<a href="">
+					<img src="images/appstore.svg" class="appstore" alt="download gorillas in the app store">
+				</a>
+				<a href="">
+					<img src="images/googleplay.svg" class="googleplay" alt="download gorillas in the google play">
+				</a>
+			</article>
+
+			<video controls>
+				<source src="images/gorillas_vid1.mp4" type="video/mp4">
+			</video>
+
+			<a href="">Become a rider</a>
+		</section>
+
+		<section>
+			<h2>We are live in</h2>
+			<marquee width="100%" direction="left" height="100px">
+				copenhagen bordeaux lille lyon nice paris augsburg berlin bonn bremen darmstadt dresden düsseldorf essen
+				frankfurt am mainfürth hamburg hanover heidelberg karlsruhe cologne leipzig mannheim munich nürnberg
+				offenbach am main stuttgart amsterdam arnhem eindhoven groningen the hague leeuwarden leiden
+				nijmegen
+				rotterdam tilburg utrecht barcelona madrid valencia london
+			</marquee>
+
+			<a href="">Do you deliver to my area?</a>
+			<p>For a more detailed overview of where we deliver, refer to our <a href="">delivery areas</a>.</p>
+		</section>
+
+		<section>
+			<img src="images/gorillas1.png">
 			<section>
-				<article>
-					<p>Faster than you</p>
-					<h1>Groceries at your door in minutes</h1>
-				</article>
-
-				<article>
-					<a href="">
-						<img src="images/appstore.svg" class="appstore" alt="download gorillas in the app store">
-					</a>
-					<a href="">
-						<img src="images/googleplay.svg" class="googleplay" alt="download gorillas in the app store">
-					</a>
-				</article>
-				<video controls>
-					<source src="/images/gorillas_vid1.mp4" type="video/mp4"></video>
-					
-					<a href="">Become a rider</a>
-			</section>
-
-			<section>
-				<h2>We are live in</h2>
-				<marquee width="100%" direction="left" height="100px">
-					COPENHAGEN BORDEAUX LILLE LYON NICE PARIS AUGSBURG BERLIN BONN BREMEN DARMSTADT DRESDEN DÜSSELDORF
-					ESSEN FRANKFURT AM MAINFÜRTH HAMBURG HANOVER HEIDELBERG KARLSRUHE COLOGNE LEIPZIG MANNHEIM MUNICH
-					NÜRNBERG OFFENBACH AM MAIN STUTTGART AMSTERDAM ARNHEM EINDHOVEN GRONINGEN THE HAGUE LEEUWARDEN
-					LEIDEN NIJMEGEN ROTTERDAM TILBURG UTRECHT BARCELONA MADRID VALENCIA LONDON
-				</marquee>
-				<a href="">Do you deliver to my area?</a>
-				<p>For a more detailed overview of where we deliver, refer to our <a href="">delivery areas</a>.</p>
-			</section>
-
-			<section>
-				<img src="/images/gorillas1.png">
 				<h2>1. NEED</h2>
 				<p>1000s of products — all at retail prices!</p>
 				<h2>2. ORDER</h2>
@@ -77,44 +86,58 @@
 				<h2>3. GET</h2>
 				<p>Within minutes! Delivered by our legendary rider crew.</p>
 			</section>
+		</section>
 
-			<section>
-				<a href="">See jobs</a>
-				<p>??</p>
-			</section>
+		<section>
+			<img src="images/gorillas2.png">
+			<a href="">See jobs</a>
+		</section>
 
-			<section>
-				<marquee width="100%" direction="left" height="100px">
-					HAPPY COMMUNITY
-				</marquee>
-			</section>
+		<marquee width="100%" direction="left" height="100px">
+			HAPPY COMMUNITY
+		</marquee>
 
-			<section>
-				<img src="">
-				<p>Hands down the best grocery delivery service I’ve ever used, friendly riders, super fast, great
-					prices & customer service is top notch! 5/5 banana rating.</p>
-				<p>— Paulius</p>
-			</section>
+		<section aria-label="Reviews of costumers">
+			<ul>
+				<li><img src="images/ster.webp"></li>
 
-			<section>
-				<marquee width="100%" direction="left" height="100px">
-					RIDE WITH US
-				</marquee>
-			</section>
+				<li><img src="images/zak.webp"></li>
 
-			<section>
-				<p>Join us</p>
-				<h2>Ride with us</h2>
-				<p>Do you love to ride? Join the community today and start earning money!</p>
-				<a href="">Apply now</a>
-			</section>
+				<li><img src="images/ster.webp"></li>
 
-		</main>
+				<li><img src="images/zak.webp"></li>
 
-		<footer>
+				<li><img src="images/ster.webp"></li>
+			</ul>
+			<p>Hands down the best grocery delivery service I’ve ever used, friendly riders, super fast, great prices &
+				customer service is top notch! 5/5 banana rating.
+				— Paulius</p>
+		</section>
 
-		</footer>
-		<script defer src="scripts/script.js"></script>
+		<!-- <p>Hands down the best grocery delivery service I’ve ever used, friendly riders, super fast, great
+			prices & customer service is top notch! 5/5 banana rating.
+		— Paulius </p>
+		</section> -->
+
+		<!-- <section>
+			<marquee width="100%" direction="left" height="100px">
+				RIDE WITH US
+			</marquee>
+		</section>
+
+		<section>
+			<p>Join us</p>
+			<h2>Ride with us</h2>
+			<p>Do you love to ride? Join the community today and start earning money!</p>
+			<a href="">Apply now</a>
+		</section>
+
+	</main>
+
+	<footer>
+
+	</footer>
+	<script defer src="scripts/script.js"></script>
 </body>
 
 </html>

@@ -1,4 +1,4 @@
-var menuButton = document.querySelector("button");
+var menuButton = document.querySelector("nav:nth-of-type(2) button");
 
 menuButton.addEventListener("click", toggleMenu);
 

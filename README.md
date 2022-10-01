@@ -160,20 +160,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Ying     | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | Achtergrond img per section  | en dit             | en ik dit    | en dan ik dat    |
-  | Marquee, dit is een heel apart onderdeel in mijn code? Maar hij zit wel gewoon in de section. | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | Grids: tekst goed positioneren + Buttons: moet dat altijd 'a' zijn?      | ...                | ...          | ...              |
+  Ying: Achtergrond img per section, Marquee, dit is een heel apart onderdeel in mijn code? Maar hij zit wel gewoon in de section, Grids: tekst goed positioneren + Buttons: moet dat altijd 'a' zijn?
+
+
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - Iets is te groot in mijn code. Ik moet de fout vinden en de width aanpassen hiervan. 
 
 </details>
 
@@ -192,25 +187,40 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
 
+  Dit ging niet zo heel soepel omdat de linkjes niet goed werkte bij me. Dit was omdat ik a geen href had gegeven, waardoor de screenreader bij de laatste a (wat niet de laatste a was, want deze stond midden op mijn site en er waren nog meerdere buttons en linkjes op mijn website.) terug sprong naar het zoekbalkje van de browser zelf. Na dit gefixt te hebben werkte de screenreader weer wanneer ik ging tabben over de linkjes heen. 
+
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+
+  Goed kijken of alle a's een href hebben. 
+
+  <img>
 
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
 
+  Dit was nog steeds vervelend als de vorige keer. De ballon lijdt je af en dit keer was het op een of ander manier nog lastiger op door mijn website te gaan en tegelijkertijd de ballon hoog te houden. Maar verder kon ik wel (met moeite) scrollen en de content bekijken van mijn website. De knoppen zijn gelukkig groot genoeg dus als ik daarop wil klikken dan gaat dat niet fout voor mij.
+
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+
+  Zorgen dat de knoppen groot genoeg zijn (visueel dus wat ik de vorige keer benoemde). 
 
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  De shocks had ik dit keer maar gelaten. De elastiekjes heb ik uitgeprobeerd terwijl ik bezig was met de screenreader. Dit was chaotisch. 
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  
+  Ik heb deze test niet goed kunnen uitvoeren wegens verschillende afleidingen en omdat ik nog bezig was met de screenreader.
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Ik heb dit keer twee brillen gebruikt om te testen. Ik heb vooral de moeilijkere gepakt om te kijken hoe het zou zijn. Ik moest me heel goed concentreren op het scherm, maar gelukkig kon ik grotendeels zien, behalve de wat kleinere teksten. Dit was ook het geval toen ik via inspector een wazige filter over mijn website deed. Qua contrast waren de images, teksten en buttons goedgekeurd. Dit was niet het geval bij de marquees. Kleurenblindheid was geen probleem aangezien mijn website voornamelijk uit zwart en wit bestaat. 
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+
 
 </details>
 
@@ -230,12 +240,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Ying     | Samantha          | Jaiden   | student 4        |
-  | ---            | ---                | ---          | ---              |
-  |           | en ik dit    | en dan ik dat    |
-  |  | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  Ying: Carrousel, @media responsive, scrollbar weghalen, hamburgermenu icoon naast de logo.      
+  Samantha: 
+  Jaiden: 
+  Frank:
+ 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen

@@ -11,7 +11,7 @@
 	<link href="styles/style.css" rel="stylesheet">
 </head>
 
-<body>
+<body class="page1">
 	<header>
 		<nav>
 			<a href="">International<img src="images/internationalicon.png"></a>
@@ -26,10 +26,10 @@
 			</button>
 
 			<ul>
-				<li><a href="">Home</a></li>
+				<li><a href="index.html">Home</a></li>
 				<li><a href="">Become a rider</a></li>
 				<li><a href="">Warehouse Jobs</a></li>
-				<li><a href="">Careers</a></li>
+				<li><a href="careers.html">Careers</a></li>
 				<li><a href="">Delivery areas</a></li>
 				<li><a href="">Waiting list</a></li>
 				<li><a href="">Customer service</a></li>
@@ -43,15 +43,16 @@
 		<!-- section 1 -->
 		<section>
 			<div>
-				<p>Faster than you</p>
-				<h1>Groceries at your door in minutes</h1>
+				<h1>Groceries at your door in minutes</h1> 
+				<!-- de h1 moet bovenaan - met flex visueel van plek gewisseld met de h2 -->
+				<h2>Faster than you</h2>
 			</div>
 
 			<div>
-				<a href="">
+				<a href="#">
 					<img src="images/appstore.svg" class="appstore" alt="download gorillas in the app store">
 				</a>
-				<a href="">
+				<a href="#">
 					<img src="images/googleplay.svg" class="googleplay" alt="download gorillas in the google play">
 				</a>
 			</div>
@@ -83,72 +84,103 @@
 		<!-- section 3 -->
 		<section>
 			<img src="images/gorillas1.png" alt="A hand that's holding a phone with the Gorillas app on screen.">
-			<section>
-				<h2>1. NEED</h2>
-				<p>1000s of products — all at retail prices!</p>
-				<h2>2. ORDER</h2>
-				<p>Everything at your fingertips.</p>
-				<h2>3. GET</h2>
-				<p>Within minutes! Delivered by our legendary rider crew.</p>
-			</section>
+			<ol> <!-- dit is een lijstje - geen section -->
+				<li>
+					<h2>1. NEED</h2>
+					<p>1000s of products — all at retail prices!</p>
+				</li>
+				<li>
+					<h2>2. ORDER</h2>
+					<p>Everything at your fingertips.</p>
+				</li>
+				<li>
+					<h2>3. GET</h2>
+					<p>Within minutes! Delivered by our legendary rider crew.</p>
+				</li>
+			</ol>
 		</section>
 
 		<!-- section 4 -->
 		<section>
-			<img src="images/gorillas2.png">
-			<a href="">See jobs</a>
+			<!-- elke section moet een heading hebben -->
+			<h2 class="visually-hidden">Looking for a job? Click the button below.</h2>
+			<!-- met de class wordt die verstopt voor zienden maar wel voorgelezen door screenreaders -->
+			<div> <!-- om de a midden op de img te zetten -->
+				<img src="images/gorillas2.png">
+				<a href="">See jobs</a>
+			</div>
+			<marquee width="100%" direction="left" height="100px">
+				HAPPY COMMUNITY
+			</marquee>
 		</section>
-
-		<marquee width="100%" direction="left" height="100px">
-			HAPPY COMMUNITY
-		</marquee>
 
 		<!-- section 5 -->
-		<section aria-label="Reviews of costumers">
+		<section>
+			<!-- elke section moet een heading hebben - dat is nog beter dan een aria-label -->
+			<h2 class="visually-hidden">Reviews of costumers</h2>
 			<ul>
-				<li><img src="images/ster.webp"></li>
+				<li>
+					<p>Hands down the best grocery delivery service I’ve ever used, friendly riders, super fast, great prices & customer service is top notch! 5/5 banana rating.</p>
+					<p>Paulius</p>
+					<img src="images/ster.webp">
+				</li>
 
-				<li><img src="images/zak.webp"></li>
+				<li>
+					<p>I made some electrons move from one place to another and I got a beer delivered to my door in 10 mins. We live in the age of wonders</p>
+					<p>Alijosa</p>
+					<img src="images/zak.webp">
+				</li>
 
-				<li><img src="images/ster.webp"></li>
+				<li>
+					<p>Incredible delivery, super friendly rider & within 10 minutes indeed. Happy customer over here!</p>
+					<p>Alexa</p>
+					<img src="images/ster.webp">
+				</li>
 
-				<li><img src="images/zak.webp"></li>
+				<li>
+					<p>How is it even possible within 6 minutes?</p>
+					<p>Max</p>
+					<img src="images/zak.webp">
+				</li>
 
-				<li><img src="images/ster.webp"></li>
+				<li>
+					<p>Gorillas has changed my life. Finally I get to do spend time on what is really important. Gorillas for president!</p>
+					<p>Kathi</p>
+					<img src="images/ster.webp">
+				</li>
 			</ul>
-			<!-- <p>Hands down the best grocery delivery service I’ve ever used, friendly riders, super fast, great prices &
-				customer service is top notch! 5/5 banana rating.</p>
-			<p>— Paulius</p> -->
+			
 		</section>
 
+		
+
 		<!-- section 6 -->
-		<!-- <section>
+		<section>
 			<marquee width="100%" direction="left" height="100px">
 				RIDE WITH US
 			</marquee>
-		</section> -->
+		</section>
 
 		<!-- section 7 -->
-		<!-- <section>
-			<img src="images/gorillas3.png">
-
-			<section>
+		<section>
+			<div> <!-- div ipv section - alleen nodig voor styling -->
+				<h2>Ride with us</h2> <!-- kopje als eerste -->
 				<p>Join us</p>
-				<h2>Ride with us</h2>
 				<p>Do you love to ride? Join the community today and start earning money!</p>
 				<a href="">Apply now</a>
-			</section>
+			</div>
 
-		</section> -->
+			<img src="images/gorillas3.png">
+		</section>
 
 	</main>
 
 	<footer>
 		<h2>Gorillas</h2>
 		<ul>
-			<li><a href=""> Home </a></li>
+			<li><a href="index.html"> Home </a></li>
 			<li><a href=""> Become a Rider </a></li>
-			<li><a href=""> Careers </a></li>
+			<li><a href="careers.html"> Careers </a></li>
 			<li><a href=""> Delivery Area </a></li>
 			<li><a href=""> Waiting List </a></li>
 		</ul>

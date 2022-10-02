@@ -87,14 +87,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  
   Je kreeg hierbij brillen met verschillende soorten glazen die een persoon met een visuele beperking zou zien. Wat voor een soort beperkingen weet ik niet zo goed meer, maar je had dan bijvoorbeeld een bril met allerlei soorten vlekjes erop of eentje waarvan de zijkanten zijn bedekt met zwart. Dit was opzicht wel te doen, bij sommige brillen moest ik me iets meer focussen (zoals bij de bril met een zwarte vlek) want hier kon je totaal niet goed doorheen kijken. De gele bril vond ik wel het makkelijkst omdat ik toevallig een zonnebril heb in die kleur. Alles leek ook nog eens veel kleurrijker, dus hiermee had ik geen moeite. 
 
-
-
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-  
-  Audio is hierbij ook heel belangrijk, of een screenreader voor degenen die een wat zwaardere beperking hebben. Of grote letters.
+  Audio is hierbij ook heel belangrijk, of een screenreader voor degenen die een wat zwaardere beperking hebben. Of grote letters!
 
 </details>
 
@@ -222,12 +218,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
   Ik heb dit keer twee brillen gebruikt om te testen. Ik heb vooral de moeilijkere gepakt om te kijken hoe het zou zijn. Ik moest me heel goed concentreren op het scherm, maar gelukkig kon ik grotendeels zien, behalve de wat kleinere teksten. Dit was ook het geval toen ik via inspector een wazige filter over mijn website deed. Qua contrast waren de images, teksten en buttons goedgekeurd. Dit was niet het geval bij de marquees. Kleurenblindheid was geen probleem aangezien mijn website voornamelijk uit zwart en wit bestaat. 
-  
-  ![IMG_5935](https://user-images.githubusercontent.com/112943865/193416382-6f2fd4d6-9cfa-41b7-b4de-f48912993452.JPG)
-![IMG_5936](https://user-images.githubusercontent.com/112943865/193416384-e7506e37-bae7-4e05-9c85-964ad5733b11.JPG)
-![IMG_5938](https://user-images.githubusercontent.com/112943865/193416387-d7995c0d-f056-4750-8334-7b8a3d5ff589.JPG)
-![IMG_5939](https://user-images.githubusercontent.com/112943865/193416388-2f6a2c42-045a-4665-b514-5d91f330565b.JPG)
-
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
@@ -253,14 +243,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Ying: Carrousel, @media responsive, scrollbar weghalen, hamburgermenu icoon naast de logo.      
   Samantha: 
   Jaiden: 
-  Frank:
+  Frank: tekst contrast
  
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
-  - 
-  - 
-  -
+  - er is nog steeds iets wat te breed is op mijn pagina, ik heb het vermoeden dat het of de nav bar of de carousel is
+  - een voor een alles weer uitcommenten om de fout te vinden, wanneer de fout is gevonden kan ik verder met de rest.
+ 
 </details>
 
 

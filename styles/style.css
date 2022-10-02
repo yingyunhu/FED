@@ -174,7 +174,7 @@ header nav:nth-of-type(2) button{
   
   height: 6em;
   width:100%;
-  background-color: var(--color-gray);
+  background-color: var(--color-buttons);
 }
 
 header nav:nth-of-type(2) > button:focus{
@@ -189,7 +189,7 @@ header nav:nth-of-type(2) ul{
   margin:0;
   
 	transition:1s;
-  background-color: var(--color-gray);
+  background-color: var(--color-buttons);
 
   display:grid;
   gap:1em;
@@ -211,6 +211,10 @@ header nav:nth-of-type(2) li{
 header nav:nth-of-type(2) a{
   color:var(--color-white);
   text-decoration: none;
+}
+
+header nav:nth-of-type(2) a:hover{
+  color:var(--color-green);
 }
 
 
@@ -278,7 +282,7 @@ section:first-of-type video{
 }
 
 /* button link */
-.page1 section:first-of-type, .page2 section:nth-of-type(10) > a{
+.page1 section:first-of-type > a, .page2 section:nth-of-type(10) > a{
   display: block;
   text-align: center;
   margin: 2em auto;
@@ -705,7 +709,7 @@ footer a:hover{
 
 }
 
-.page2 section:first-of-type h1::before, h1::after { /* herhaling p */
+.page2 section:first-of-type h1::before,.page2 section:first-of-type h1::after { /* herhaling p */
   content:"Careers";
 }
 
@@ -742,7 +746,7 @@ footer a:hover{
   justify-content: left;
 
   text-transform: none;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 1.5em;
 
 }
@@ -1130,7 +1134,7 @@ footer a:hover{
   font-weight: 100;
 
   margin: 0;
-  padding: 1em;
+  padding: 1em 2em 2em 1em;
 }
 
 /*************/
